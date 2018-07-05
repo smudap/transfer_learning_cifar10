@@ -1,1 +1,1 @@
-# transfer_learning_cifar10
+# Transfer learning on CIFAR-10
